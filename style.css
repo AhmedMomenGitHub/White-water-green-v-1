@@ -52,6 +52,15 @@ padding-top: 100px;
 
 
 }
+
+.section img{
+  border: 10px solid #00e178 ;
+  border-radius: 20px;
+}
+.slide img{
+  border: 10px solid #00e178 ;
+  border-radius: 20px;
+}
 .container{
     display: flex;
     justify-content: center;
